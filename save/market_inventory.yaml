@@ -1,0 +1,243 @@
+inventory:
+  '235035521':
+  - currentGrowthTime: 0
+    affixes:
+      prefix:
+        affix: Tasteless
+        modifier: -7
+        id: Tasteless
+      suffix:
+        affix: Variegation
+        modifier: -2
+        id: Variegation
+    id: corn
+    currentGrowth: 0
+    activeImageIndex: 0
+    hasPesticide: false
+  - 3
+  '196890763':
+  - currentGrowthTime: 0
+    affixes:
+      prefix:
+        affix: Caustic
+        modifier: -10
+        id: Caustic
+      suffix:
+        affix: Jackson's Fridge
+        modifier: 7
+        id: Jackson's Fridge
+    id: corn
+    currentGrowth: 0
+    activeImageIndex: 0
+    hasPesticide: false
+  - 1
+  '237009740':
+  - affixes:
+      prefix:
+        affix: Green
+        modifier: 10
+        id: Green
+      suffix:
+        affix: the Moth
+        modifier: -3
+        id: the Moth
+    id: pesticide
+    activeImageIndex: 0
+  - 1
+  '1496436903':
+  - affixes:
+      prefix:
+        affix: Stinky
+        modifier: -3
+        id: Stinky
+      suffix:
+        affix: the Moth
+        modifier: -3
+        id: the Moth
+    id: pesticide
+    activeImageIndex: 0
+  - 1
+  '1441806802':
+  - affixes:
+      prefix:
+        affix: Clean
+        modifier: 4
+        id: Clean
+      suffix:
+        affix: Mist
+        modifier: 5
+        id: Mist
+    id: pesticide
+    activeImageIndex: 0
+  - 1
+  '302577452':
+  - affixes:
+      prefix:
+        affix: Plant Food
+        modifier: 1
+        id: Plant Food
+      suffix:
+        affix: Organicness
+        modifier: 4
+        id: Organicness
+    id: good_fertilizer
+    activeImageIndex: 0
+  - 1
+  '1108126355':
+  - affixes: null
+    id: tractor
+    activeImageIndex: 0
+  - 1
+  '810215074':
+  - currentGrowthTime: 0
+    affixes:
+      prefix:
+        affix: Golden
+        modifier: 10
+        id: Golden
+      suffix:
+        affix: Pestilence
+        modifier: -8
+        id: Pestilence
+    id: sugar_cane
+    currentGrowth: 0
+    activeImageIndex: 0
+    hasPesticide: false
+  - 1
+  '818904834':
+  - affixes:
+      prefix:
+        affix: Eucalyptic
+        modifier: 4
+        id: Eucalyptic
+      suffix:
+        affix: the Bug
+        modifier: -2
+        id: the Bug
+    id: pesticide
+    activeImageIndex: 0
+  - 1
+  '899464977':
+  - affixes:
+      prefix:
+        affix: Stinky
+        modifier: -3
+        id: Stinky
+      suffix:
+        affix: Flavour
+        modifier: 3
+        id: Flavour
+    id: pesticide
+    activeImageIndex: 0
+  - 1
+  '114719489':
+  - affixes:
+      prefix:
+        affix: Ultra
+        modifier: 4
+        id: Ultra
+      suffix:
+        affix: Great Renown
+        modifier: 0
+        id: Great Renown
+    id: lame_fertilizer
+    activeImageIndex: 0
+  - 1
+  '652686140':
+  - affixes:
+      prefix:
+        affix: Eye-Watering
+        modifier: -4
+        id: Eye-Watering
+      suffix:
+        affix: the Caterpillar
+        modifier: -4
+        id: the Caterpillar
+    id: pesticide
+    activeImageIndex: 0
+  - 1
+  '486978553':
+  - affixes:
+      prefix:
+        affix: Plant Food
+        modifier: 1
+        id: Plant Food
+      suffix:
+        affix: Great Renown
+        modifier: 0
+        id: Great Renown
+    id: lame_fertilizer
+    activeImageIndex: 0
+  - 1
+  '341742493':
+  - affixes:
+      prefix:
+        affix: Starter
+        modifier: -6
+        id: Starter
+      suffix:
+        affix: Great Renown
+        modifier: 0
+        id: Great Renown
+    id: good_fertilizer
+    activeImageIndex: 0
+  - 1
+  '562085509':
+  - affixes:
+      prefix:
+        affix: Ultra
+        modifier: 4
+        id: Ultra
+      suffix:
+        affix: Great Renown
+        modifier: 0
+        id: Great Renown
+    id: lame_fertilizer
+    activeImageIndex: 0
+  - 1
+  '518508182':
+  - affixes:
+      prefix:
+        affix: Dry
+        modifier: -3
+        id: Dry
+      suffix:
+        affix: Grass
+        modifier: 1
+        id: Grass
+    id: good_fertilizer
+    activeImageIndex: 0
+  - 1
+  '366886116':
+  - affixes:
+      prefix:
+        affix: George
+        modifier: 6
+        id: George
+      suffix:
+        affix: Keith
+        modifier: -8
+        id: Keith
+    id: harvester
+    activeImageIndex: 0
+  - 1
+  '1181877950':
+  - affixes: null
+    id: irrigation
+    activeImageIndex: 0
+  - 1
+  '364264335':
+  - affixes:
+      prefix:
+        affix: Kieran
+        modifier: 4
+        id: Kieran
+      suffix:
+        affix: Leal
+        modifier: 6
+        id: Leal
+    id: waterer
+    activeImageIndex: 0
+  - 1
+capacity: 50
+itemCount: 21

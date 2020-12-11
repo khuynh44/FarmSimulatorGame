@@ -1,0 +1,19 @@
+inventory:
+  '101908643':
+  - currentGrowthTime: 0
+    affixes:
+      prefix:
+        affix: Kieran's
+        modifier: -8
+        id: Kieran's
+      suffix:
+        affix: the Garden
+        modifier: 0
+        id: the Garden
+    id: potato
+    currentGrowth: 0
+    activeImageIndex: 0
+    hasPesticide: false
+  - 1
+capacity: 8
+itemCount: 1

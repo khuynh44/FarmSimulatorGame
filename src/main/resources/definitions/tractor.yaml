@@ -1,0 +1,7 @@
+---
+id: "tractor"
+name: "Tractor"
+artPaths: [
+  "/main/resources/art/tractor.png"
+]
+baseCost: 50

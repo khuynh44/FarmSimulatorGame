@@ -1,0 +1,102 @@
+---
+id: "wheat"
+name: "Wheat"
+artPaths: [
+  "/main/resources/art/wheat0.png",
+  "/main/resources/art/wheat1.png",
+  "/main/resources/art/wheat2.png"
+  ]
+deadImagePath: "/main/resources/art/wheatdead.png"
+baseGrowTime: 40
+baseCost: 2.0
+idealWaterAmount: 20
+---
+id: "corn"
+name: "Corn"
+artPaths: [
+  "/main/resources/art/corn0.png",
+  "/main/resources/art/corn1.png",
+  "/main/resources/art/corn2.png"
+  ]
+deadImagePath: "/main/resources/art/corndead.png"
+baseGrowTime: 70
+baseCost: 5.0
+idealWaterAmount: 50
+---
+id: "sugar_cane"
+name: "Sugar Cane"
+artPaths: [
+  "/main/resources/art/sugar_cane0.png",
+  "/main/resources/art/sugar_cane1.png",
+  "/main/resources/art/sugar_cane2.png",
+  "/main/resources/art/sugar_cane3.png",
+  "/main/resources/art/sugar_cane4.png",
+  ]
+deadImagePath: "/main/resources/art/sugar_canedead.png"
+baseGrowTime: 60
+baseCost: 10.0
+idealWaterAmount: 90
+---
+id: "banana"
+name: "Banana"
+artPaths: [
+  "/main/resources/art/banana0.png",
+  "/main/resources/art/banana1.png",
+  "/main/resources/art/banana2.png"
+  ]
+deadImagePath: "/main/resources/art/bananadead.png"
+baseGrowTime: 10
+baseCost: 7.8
+idealWaterAmount: 30
+---
+id: "potato"
+name: "Potato"
+artPaths: [
+  "/main/resources/art/potato0.png",
+  "/main/resources/art/potato1.png",
+  "/main/resources/art/potato2.png",
+  "/main/resources/art/potato3.png"
+  ]
+deadImagePath: "/main/resources/art/potatodead.png"
+baseGrowTime: 40
+baseCost: 6.4
+idealWaterAmount: 60
+---
+id: "cabbage"
+name: "Cabbage"
+artPaths: [
+    "/main/resources/art/cabbage0.png",
+    "/main/resources/art/cabbage1.png",
+    "/main/resources/art/cabbage2.png",
+    "/main/resources/art/cabbage3.png"
+]
+deadImagePath: "/main/resources/art/cabbagedead.png"
+baseGrowTime: 50
+baseCost: 4
+idealWaterAmount: 45
+---
+id: "sunflower"
+name: "Sunflower"
+artPaths: [
+    "/main/resources/art/sunflower0.png",
+    "/main/resources/art/sunflower1.png",
+    "/main/resources/art/sunflower2.png",
+    "/main/resources/art/sunflower3.png"
+]
+deadImagePath: "/main/resources/art/sunflowerdead.png"
+baseGrowTime: 70
+baseCost: 8
+idealWaterAmount: 30
+---
+id: "strawberry"
+name: "Strawberry"
+artPaths: [
+    "/main/resources/art/strawberry0.png",
+    "/main/resources/art/strawberry1.png",
+    "/main/resources/art/strawberry2.png",
+    "/main/resources/art/strawberry3.png"
+]
+deadImagePath: "/main/resources/art/strawberrydead.png"
+baseGrowTime: 55
+baseCost: 4.50
+idealWaterAmount: 65

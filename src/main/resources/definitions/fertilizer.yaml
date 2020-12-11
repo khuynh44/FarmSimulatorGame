@@ -1,0 +1,30 @@
+---
+id: "lame_fertilizer"
+name: "Lame Fertilizer"
+artPaths: [
+  "/main/resources/art/lame_fertilizer.png"
+  ]
+baseFertilizerAmount: 3
+baseFertilizerMultiplier: 1.5
+baseCost: 2.0
+colorHex: "#0B0B0B"
+---
+id: "okay_fertilizer"
+name: "Okay Fertilizer"
+artPaths: [
+  "/main/resources/art/okay_fertilizer.png"
+  ]
+baseFertilizerAmount: 3
+baseFertilizerMultiplier: 2
+baseCost: 3.0
+colorHex: "#ECB87C"
+---
+id: "good_fertilizer"
+name: "Good Fertilizer"
+artPaths: [
+  "/main/resources/art/good_fertilizer.png"
+  ]
+baseFertilizerAmount: 3
+baseFertilizerMultiplier: 2.5
+baseCost: 4.0
+colorHex: "#AFE47D"

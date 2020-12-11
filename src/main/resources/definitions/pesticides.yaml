@@ -1,0 +1,7 @@
+---
+id: "pesticide"
+name: "Pesticide"
+artPaths: [
+  "/main/resources/art/pesticide.png"
+]
+baseCost: 2

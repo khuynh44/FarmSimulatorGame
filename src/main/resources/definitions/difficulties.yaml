@@ -1,0 +1,21 @@
+---
+id: "easy"
+name: "Easy"
+startingMoney: 490
+workerCostMultiplier: 1.00
+pesticideCostMultiplier: 1.00
+environmentalModifier: 2.0
+---
+id: "normal"
+name: "Normal"
+startingMoney: 50
+workerCostMultiplier: 1.25
+pesticideCostMultiplier: 1.5
+environmentalModifier: 1.5
+---
+id: "hard"
+name: "Hard"
+startingMoney: 25
+workerCostMultiplier: 1.5
+pesticideCostMultiplier: 2
+environmentalModifier: 1.00

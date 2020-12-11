@@ -1,0 +1,7 @@
+---
+id: "irrigation"
+name: "Irrigation"
+artPaths: [
+  "/main/resources/art/irrigation.png"
+]
+baseCost: 50

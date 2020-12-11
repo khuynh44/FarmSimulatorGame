@@ -1,0 +1,15 @@
+---
+id: "main_background_nusic"
+path: "/main/resources/sounds/main_background_nusic.wav"
+---
+id: "cash"
+path: "/main/resources/sounds/cash.wav"
+---
+id: "shovel"
+path: "/main/resources/sounds/shovel.wav"
+---
+id: "water"
+path: "/main/resources/sounds/water.wav"
+---
+id: "harvest"
+path: "/main/resources/sounds/harvest.wav"

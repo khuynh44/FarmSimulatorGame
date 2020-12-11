@@ -1,0 +1,17 @@
+---
+id: "harvester"
+name: "harvester"
+baseCost: 10
+baseWorkTime: 5
+artPaths: [
+  "/main/resources/art/harvester0.png",
+  ]
+---
+id: "waterer"
+name: "waterer"
+baseCost: 20
+baseWorkTime: 4
+artPaths: [
+  "/main/resources/art/waterer0.png",
+  "/main/resources/art/waterer1.png"
+  ]

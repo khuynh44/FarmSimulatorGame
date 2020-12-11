@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="673.0" prefWidth="450.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.java.ui.inventory.InventoryController">
+    <children>
+        <SplitPane dividerPositions="0.5691964285714286" prefHeight="673.0" prefWidth="450.0">
+            <items>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefWidth="291.0">
+                    <children>
+                        <TableView fx:id="inventoryTable" prefHeight="671.0" prefWidth="252.0">
+                            <columns>
+                                <TableColumn editable="false" maxWidth="221.0" minWidth="221.0" prefWidth="221.0" resizable="false" text="Item" />
+                                <TableColumn editable="false" maxWidth="30.0" minWidth="30.0" prefWidth="30.0" resizable="false" text="#" />
+                            </columns>
+                        </TableView>
+                    </children>
+                </AnchorPane>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefWidth="168.0" SplitPane.resizableWithParent="false">
+                    <children>
+                        <ListView fx:id="itemDescriptionList" layoutX="4.0" layoutY="181.0" prefHeight="490.0" prefWidth="183.0" />
+                        <ImageView fx:id="itemImage" fitHeight="150.0" fitWidth="150.0" layoutX="20.0" layoutY="15.0" pickOnBounds="true" preserveRatio="true" />
+                        <Label fx:id="capacityLabel" layoutX="141.0" layoutY="649.0" prefHeight="17.0" prefWidth="40.0" />
+                    </children></AnchorPane>
+            </items>
+        </SplitPane>
+    </children>
+</Pane>

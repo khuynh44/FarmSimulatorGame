@@ -1,0 +1,716 @@
+column_count: 3
+upgrade_cost: 10
+has_tractor: false
+has_irrigation: false
+plots:
+- - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 35
+      affixes:
+        prefix:
+          affix: Bountiful
+          modifier: 8
+          id: Bountiful
+        suffix:
+          affix: Steroids
+          modifier: 4
+          id: Steroids
+      id: cabbage
+      currentGrowth: 4
+      activeImageIndex: 2
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 31
+      affixes:
+        prefix:
+          affix: Zesty
+          modifier: 7
+          id: Zesty
+        suffix:
+          affix: Renown
+          modifier: 8
+          id: Renown
+      id: banana
+      currentGrowth: 4
+      activeImageIndex: 2
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 17
+      affixes:
+        prefix:
+          affix: Golden
+          modifier: 10
+          id: Golden
+        suffix:
+          affix: Variegation
+          modifier: -2
+          id: Variegation
+      id: sugar_cane
+      currentGrowth: 4
+      activeImageIndex: 1
+      hasPesticide: false
+- - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 18
+      affixes:
+        prefix:
+          affix: Irradiated
+          modifier: -8
+          id: Irradiated
+        suffix:
+          affix: Acid
+          modifier: -9
+          id: Acid
+      id: corn
+      currentGrowth: 4
+      activeImageIndex: 0
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 23
+      affixes:
+        prefix:
+          affix: Golden
+          modifier: 10
+          id: Golden
+        suffix:
+          affix: the Garden
+          modifier: 0
+          id: the Garden
+      id: sugar_cane
+      currentGrowth: 4
+      activeImageIndex: 1
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 17
+      affixes:
+        prefix:
+          affix: Non-GMO
+          modifier: 6
+          id: Non-GMO
+        suffix:
+          affix: Variegation
+          modifier: -2
+          id: Variegation
+      id: corn
+      currentGrowth: 4
+      activeImageIndex: 0
+      hasPesticide: false
+- - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 33
+      affixes:
+        prefix:
+          affix: Unwashed
+          modifier: -1
+          id: Unwashed
+        suffix:
+          affix: Stinging
+          modifier: -3
+          id: Stinging
+      id: potato
+      currentGrowth: 4
+      activeImageIndex: 2
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 39
+      affixes:
+        prefix:
+          affix: Tasteless
+          modifier: -7
+          id: Tasteless
+        suffix:
+          affix: Tastiness
+          modifier: 7
+          id: Tastiness
+      id: strawberry
+      currentGrowth: 4
+      activeImageIndex: 2
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 42
+      affixes:
+        prefix:
+          affix: Seething
+          modifier: -7
+          id: Seething
+        suffix:
+          affix: Acid
+          modifier: -9
+          id: Acid
+      id: corn
+      currentGrowth: 4
+      activeImageIndex: 1
+      hasPesticide: false
+- - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant: null
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 56
+      affixes:
+        prefix:
+          affix: Kieran's
+          modifier: -8
+          id: Kieran's
+        suffix:
+          affix: Tastiness
+          modifier: 7
+          id: Tastiness
+      id: cabbage
+      currentGrowth: 4
+      activeImageIndex: 3
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 40
+      affixes:
+        prefix:
+          affix: Bad
+          modifier: -3
+          id: Bad
+        suffix:
+          affix: Stinging
+          modifier: -3
+          id: Stinging
+      id: sunflower
+      currentGrowth: 4
+      activeImageIndex: 1
+      hasPesticide: false
+- - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 12
+      affixes:
+        prefix:
+          affix: Saturated
+          modifier: 6
+          id: Saturated
+        suffix:
+          affix: Ashes
+          modifier: -6
+          id: Ashes
+      id: sugar_cane
+      currentGrowth: 4
+      activeImageIndex: 0
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant: null
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 38
+      affixes:
+        prefix:
+          affix: Organic
+          modifier: 6
+          id: Organic
+        suffix:
+          affix: Bliss
+          modifier: 9
+          id: Bliss
+      id: sunflower
+      currentGrowth: 4
+      activeImageIndex: 1
+      hasPesticide: false
+- - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 40
+      affixes:
+        prefix:
+          affix: Delectable
+          modifier: 9
+          id: Delectable
+        suffix:
+          affix: Girthiness
+          modifier: 8
+          id: Girthiness
+      id: sunflower
+      currentGrowth: 4
+      activeImageIndex: 1
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 11
+      affixes:
+        prefix:
+          affix: Golden
+          modifier: 10
+          id: Golden
+        suffix:
+          affix: Acid
+          modifier: -9
+          id: Acid
+      id: sugar_cane
+      currentGrowth: 4
+      activeImageIndex: 0
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 34
+      affixes:
+        prefix:
+          affix: Juicy
+          modifier: 7
+          id: Juicy
+        suffix:
+          affix: Odor
+          modifier: -9
+          id: Odor
+      id: corn
+      currentGrowth: 4
+      activeImageIndex: 0
+      hasPesticide: false
+- - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 12
+      affixes:
+        prefix:
+          affix: Choice
+          modifier: 7
+          id: Choice
+        suffix:
+          affix: Variegation
+          modifier: -2
+          id: Variegation
+      id: strawberry
+      currentGrowth: 4
+      activeImageIndex: 0
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 36
+      affixes:
+        prefix:
+          affix: Bountiful
+          modifier: 8
+          id: Bountiful
+        suffix:
+          affix: Girthiness
+          modifier: 8
+          id: Girthiness
+      id: corn
+      currentGrowth: 4
+      activeImageIndex: 1
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 21
+      affixes:
+        prefix:
+          affix: Delectable
+          modifier: 9
+          id: Delectable
+        suffix:
+          affix: the Garden
+          modifier: 0
+          id: the Garden
+      id: strawberry
+      currentGrowth: 4
+      activeImageIndex: 1
+      hasPesticide: false
+- - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 29
+      affixes:
+        prefix:
+          affix: Seething
+          modifier: -7
+          id: Seething
+        suffix:
+          affix: Infamy
+          modifier: -7
+          id: Infamy
+      id: wheat
+      currentGrowth: 4
+      activeImageIndex: 1
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 36
+      affixes:
+        prefix:
+          affix: Concentrated
+          modifier: 7
+          id: Concentrated
+        suffix:
+          affix: Steroids
+          modifier: 4
+          id: Steroids
+      id: corn
+      currentGrowth: 4
+      activeImageIndex: 1
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 51
+      affixes:
+        prefix:
+          affix: Non-GMO
+          modifier: 6
+          id: Non-GMO
+        suffix:
+          affix: Infamy
+          modifier: -7
+          id: Infamy
+      id: cabbage
+      currentGrowth: 4
+      activeImageIndex: 3
+      hasPesticide: false
+- - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 23
+      affixes:
+        prefix:
+          affix: Bland
+          modifier: -5
+          id: Bland
+        suffix:
+          affix: Odor
+          modifier: -9
+          id: Odor
+      id: cabbage
+      currentGrowth: 4
+      activeImageIndex: 1
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant: null
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant: null
+- - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 31
+      affixes:
+        prefix:
+          affix: Caustic
+          modifier: -10
+          id: Caustic
+        suffix:
+          affix: Well-Being
+          modifier: 8
+          id: Well-Being
+      id: banana
+      currentGrowth: 4
+      activeImageIndex: 2
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 38
+      affixes:
+        prefix:
+          affix: Bountiful
+          modifier: 8
+          id: Bountiful
+        suffix:
+          affix: Renown
+          modifier: 8
+          id: Renown
+      id: potato
+      currentGrowth: 4
+      activeImageIndex: 2
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 47
+      affixes:
+        prefix:
+          affix: Sour
+          modifier: -7
+          id: Sour
+        suffix:
+          affix: Infamy
+          modifier: -7
+          id: Infamy
+      id: sunflower
+      currentGrowth: 4
+      activeImageIndex: 2
+      hasPesticide: false
+- - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 43
+      affixes:
+        prefix:
+          affix: Tasteless
+          modifier: -7
+          id: Tasteless
+        suffix:
+          affix: Pestilence
+          modifier: -8
+          id: Pestilence
+      id: strawberry
+      currentGrowth: 4
+      activeImageIndex: 2
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 7
+      affixes:
+        prefix:
+          affix: Golden
+          modifier: 10
+          id: Golden
+        suffix:
+          affix: Jackson's Fridge
+          modifier: 7
+          id: Jackson's Fridge
+      id: potato
+      currentGrowth: 4
+      activeImageIndex: 0
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 26
+      affixes:
+        prefix:
+          affix: Tasteless
+          modifier: -7
+          id: Tasteless
+        suffix:
+          affix: the Vine
+          modifier: 8
+          id: the Vine
+      id: potato
+      currentGrowth: 4
+      activeImageIndex: 1
+      hasPesticide: false
+- - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 24
+      affixes:
+        prefix:
+          affix: Saturated
+          modifier: 6
+          id: Saturated
+        suffix:
+          affix: the Heavens
+          modifier: 10
+          id: the Heavens
+      id: corn
+      currentGrowth: 4
+      activeImageIndex: 0
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 48
+      affixes:
+        prefix:
+          affix: GMO
+          modifier: -5
+          id: GMO
+        suffix:
+          affix: Steroids
+          modifier: 4
+          id: Steroids
+      id: corn
+      currentGrowth: 4
+      activeImageIndex: 1
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant: null
+- - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 8
+      affixes:
+        prefix:
+          affix: Sour
+          modifier: -7
+          id: Sour
+        suffix:
+          affix: Steroids
+          modifier: 4
+          id: Steroids
+      id: strawberry
+      currentGrowth: 4
+      activeImageIndex: 0
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 27
+      affixes:
+        prefix:
+          affix: Bland
+          modifier: -5
+          id: Bland
+        suffix:
+          affix: Potency
+          modifier: 7
+          id: Potency
+      id: wheat
+      currentGrowth: 4
+      activeImageIndex: 1
+      hasPesticide: false
+  - fertilizer_handler:
+      fertilizers: {
+        }
+      fertilizer_amount: 0
+    water_amount: 0
+    plant:
+      currentGrowthTime: 26
+      affixes:
+        prefix:
+          affix: Creamy
+          modifier: 6
+          id: Creamy
+        suffix:
+          affix: Infamy
+          modifier: -7
+          id: Infamy
+      id: wheat
+      currentGrowth: 4
+      activeImageIndex: 1
+      hasPesticide: false
+row_count: 13

@@ -1,0 +1,46 @@
+---
+id: "bobs_market"
+name: "Bob's Market"
+tax: 0.06
+initialInventoryCap: 50
+initialItems:
+  corn: [ 3, 1 ]
+  sugar_cane: [ 1 ]
+  harvester: [ 3 ]
+  waterer: [ 1 ]
+  pesticide: [ 1, 1, 1, 1, 1, 1 ]
+  lame_fertilizer: [ 1, 1, 1 ]
+  good_fertilizer: [ 1, 1, 1 ]
+  irrigation: [ 1 ]
+  tractor: [ 1 ]
+---
+id: "joes_market"
+name: "Joe's Market"
+tax: 0.01
+initialInventoryCap: 45
+initialItems:
+  potato: [ 1, 1, 1, 1, 1, 3 ]
+  harvester: [ 1 ]
+  waterer: [ 2 ]
+  pesticide: [ 1, 1, 1, 1, 1, 1 ]
+  good_fertilizer: [ 1, 1, 1 ]
+  okay_fertilizer: [ 1, 1, 1 ]
+  irrigation: [ 1 ]
+  tractor: [ 1 ]
+
+---
+id: "farmers_market"
+name: "Farmer's Market"
+tax: 0.00
+initialInventoryCap: 40
+initialItems:
+  banana: [ 1, 2, 10 ]
+  wheat: [ 1, 1, 1 ]
+  harvester: [ 5 ]
+  waterer: [ 6 ]
+  pesticide: [ 1, 1, 1, 1, 1, 1 ]
+  good_fertilizer: [ 1, 1, 1 ]
+  okay_fertilizer: [ 1, 1, 1 ]
+  lame_fertilizer: [ 1, 1, 1 ]
+  irrigation: [ 1 ]
+  tractor: [ 1 ]
